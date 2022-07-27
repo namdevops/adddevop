@@ -1,4 +1,9 @@
 adding to main 
+<<<<<<< HEAD
 hi
 hello
 how ru
+=======
+dfghj
+gh
+>>>>>>> 21512a9361a0887f622b84155d43a26212e0fded
