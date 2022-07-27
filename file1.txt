@@ -1,3 +1,7 @@
 adding to main 
+<<<<<<< HEAD
 hi
 hello
+=======
+dfghj
+>>>>>>> 9272427dd23df665c29317f26dba9577ae132c3e
