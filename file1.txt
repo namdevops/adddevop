@@ -1,9 +1,13 @@
 adding to main 
 <<<<<<< HEAD
+<<<<<<< HEAD
 hi
 hello
 how ru
 =======
 dfghj
-gh
+ghh
 >>>>>>> 21512a9361a0887f622b84155d43a26212e0fded
+=======
+line change hhj
+>>>>>>> 25c6d9644e4579e43e0899fa146187653b09555e
